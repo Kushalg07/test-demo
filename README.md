@@ -1,4 +1,4 @@
 # test-demo
 Practicing Git
 <br>
-Author - Kushal G
+Author - Kushal (M.Tech)
