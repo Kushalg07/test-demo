@@ -1,3 +1,4 @@
 # test-demo
-Practicing Git \n
+Practicing Git
+<br>
 Author - Kushal G
